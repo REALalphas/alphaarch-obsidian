@@ -7,8 +7,12 @@
         "id": "383c6f805416b29a",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Installation process/1. First of all.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Installation process/1. First of all.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,8 +89,9 @@
   },
   "active": "383c6f805416b29a",
   "lastOpenFiles": [
-    "Installation process/Useful commands.md",
     "Installation process/1. First of all.md",
+    "README.md",
+    "Installation process/Useful commands.md",
     "Installation process/2. Preparing.md"
   ]
 }
