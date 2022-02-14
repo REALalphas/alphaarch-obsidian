@@ -2,7 +2,7 @@
   "commitMessage": "Update: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 3,
-  "autoPullInterval": 1,
+  "autoPullInterval": 0,
   "autoPullOnBoot": false,
   "disablePush": false,
   "pullBeforePush": true,
@@ -13,6 +13,6 @@
   "syncMethod": "merge",
   "gitPath": "",
   "customMessageOnAutoBackup": false,
-  "autoBackupAfterFileChange": true,
+  "autoBackupAfterFileChange": false,
   "treeStructure": false
 }
