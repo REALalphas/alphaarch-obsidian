@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Installation process/Useful commands.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Installation process/Useful commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,9 @@
   },
   "active": "383c6f805416b29a",
   "lastOpenFiles": [
-    "README.md",
-    "Installation process/1. First of all.md",
+    "Installation process/Useful commands.md",
     "Installation process/2. Preparing.md",
-    "Installation process/Useful commands.md"
+    "Installation process/1. First of all.md",
+    "README.md"
   ]
 }
