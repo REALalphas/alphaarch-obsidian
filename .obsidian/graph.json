@@ -8,31 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#help",
-      "color": {
-        "a": 1,
-        "rgb": 8414414
-      }
-    },
-    {
       "query": "tag:#introduction",
       "color": {
         "a": 1,
-        "rgb": 14400379
+        "rgb": 14701138
       }
     },
     {
-      "query": "line:(. )",
+      "query": "tag:#help",
       "color": {
         "a": 1,
-        "rgb": 11657298
+        "rgb": 14725458
       }
     },
     {
       "query": "",
       "color": {
         "a": 1,
-        "rgb": 5431378
+        "rgb": 11657298
       }
     }
   ],
@@ -46,6 +39,6 @@
   "repelStrength": 11.0047749669816,
   "linkStrength": 0.797317890886925,
   "linkDistance": 209,
-  "scale": 1.3346075975186906,
+  "scale": 0.5451115646236544,
   "close": false
 }
