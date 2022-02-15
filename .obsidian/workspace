@@ -10,8 +10,8 @@
           "type": "markdown",
           "state": {
             "file": "Installation process/2. Preparing.md",
-            "mode": "preview",
-            "source": false
+            "mode": "source",
+            "source": true
           }
         }
       }
