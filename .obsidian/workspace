@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Installation process/2. Preparing.md",
+            "file": "Installation process/3. Configuring.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Installation process/2. Preparing.md",
+                "file": "Installation process/3. Configuring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,9 @@
   },
   "active": "383c6f805416b29a",
   "lastOpenFiles": [
+    "Installation process/3. Configuring.md",
     "Installation process/2. Preparing.md",
     "Installation process/1. First of all.md",
-    "Installation process/3. Configuring.md",
     "Installation process/Fixing bugs.md",
     "Installation process/Useful commands.md",
     "README.md"
