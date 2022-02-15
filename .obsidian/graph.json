@@ -5,8 +5,37 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#help",
+      "color": {
+        "a": 1,
+        "rgb": 8414414
+      }
+    },
+    {
+      "query": "tag:#introduction",
+      "color": {
+        "a": 1,
+        "rgb": 14400379
+      }
+    },
+    {
+      "query": "line:(. )",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
   "textFadeMultiplier": 0,
@@ -17,6 +46,6 @@
   "repelStrength": 11.0047749669816,
   "linkStrength": 0.797317890886925,
   "linkDistance": 209,
-  "scale": 0.7798887840302722,
+  "scale": 1.3346075975186906,
   "close": false
 }

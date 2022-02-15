@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#help",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,12 +84,12 @@
   },
   "active": "383c6f805416b29a",
   "lastOpenFiles": [
+    "Installation process/1. First of all.md",
     "Installation process/Useful commands.md",
     "Installation process/3. Configuring.md",
     "Installation process/4. Installing.md",
     "Installation process/2. Preparing.md",
     "Installation process/5. Post-Installing.md",
-    "Installation process/1. First of all.md",
     "Installation process/6. Desktop Environment.md",
     "Installation process/7. Finishing.md",
     "Installation process/Fixing bugs.md",
