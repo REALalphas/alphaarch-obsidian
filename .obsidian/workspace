@@ -7,12 +7,8 @@
         "id": "383c6f805416b29a",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Installation process/3. Configuring.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#introduction",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +45,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -69,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Installation process/3. Configuring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,6 +86,7 @@
   "active": "383c6f805416b29a",
   "lastOpenFiles": [
     "Installation process/3. Configuring.md",
+    "Installation process/4. Installing.md",
     "Installation process/2. Preparing.md",
     "Installation process/1. First of all.md",
     "Installation process/Fixing bugs.md",
