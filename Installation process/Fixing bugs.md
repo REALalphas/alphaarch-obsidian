@@ -8,3 +8,5 @@
 	2. Run `nano /mnt/etc/fstab`
 	3. Remove every line with UUID and drive names
 	4. Generate fstab again `genfstab -U /mnt >> /mnt/etc/fstab` ^7ac026
+
+tags: #help

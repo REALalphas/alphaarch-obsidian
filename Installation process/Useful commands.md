@@ -1,2 +1,4 @@
 - See all disks and partitions `fdisk -l`
 - Stop loud beeping `setterm -blength 0`
+
+tags: #help
