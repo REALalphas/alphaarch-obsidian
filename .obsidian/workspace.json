@@ -1,0 +1,118 @@
+{
+  "main": {
+    "id": "e1382e2913395f79",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c0ff73f1c464f27",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b4c744266bbcfc0a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1cc4f0db4d7cce4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "482038ac16b18737",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee6144ccbed5a9ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "aaa226e26e11c84d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#help",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "eb04e5dd42864174",
+    "type": "split",
+    "children": [
+      {
+        "id": "63cbc105d0be16a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8982778798547b2b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "b4c744266bbcfc0a",
+  "lastOpenFiles": [
+    "Installation process/Useful commands.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Installation process/Fixing bugs.md",
+    "Installation process/2. Preparing.md",
+    "Installation process/3. Configuring.md",
+    "Installation process/4. Installing.md",
+    "Installation process/1. First of all.md",
+    "README.md",
+    "Installation process/5. Post-Installing.md",
+    "Installation process/6. Desktop Environment.md",
+    "Installation process/7. Finishing.md"
+  ]
+}
